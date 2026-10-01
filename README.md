@@ -1,5 +1,11 @@
 # ECO2432 Web3 Starter
 
+> **Thông tin sinh viên:**
+> - **Họ và Tên:** Trần Thị Như Huỳnh
+> - **MSSV:** 24K4320010
+> - **Lớp:** K58KTS
+> - **Email:** 24K4320010@hce.edu.vn
+
 Kho khởi đầu dùng xuyên suốt 15 bài thực hành.
 
 ## Bắt đầu (thay cho bước "Fork kho" trong sổ tay)
